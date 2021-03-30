@@ -32,7 +32,7 @@ function mul(value) {
 }
 
 
-
+/*
 
 async function print(){
     let val1 = await getvalue();
@@ -42,8 +42,8 @@ async function print(){
 }
 
 print();
+*/
 
-/*
 getvalue().then(function (val1) {
     return add(val1)
 }).then(function (val2) {
@@ -51,7 +51,3 @@ getvalue().then(function (val1) {
 }).then(function (val3){
     console.log(val3);
 });
-*/
-
-
-//git
